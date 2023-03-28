@@ -10,11 +10,13 @@ This talk proposes to share the lessons learned from setting up teams and buildi
 ## Session Outline
 
 ### Introduction 
-- Definition of Platform and Site Reliability Engineering (SRE) -  The definition of SRE and it’s philosophies and practices need to be different for different organizations based on various factors. Google’s SRE practices are not a fit all framework.
+
+- Definition of Platform and Site Reliability Engineering (SRE)  - The definition of SRE and it’s philosophies and practices need to be different for different organizations based on various factors. Google’s SRE practices are not a fit all framework.
 
 - Importance of SRE culture for startups and scaleups - Setting up SRE culture from the start proves to be an important factor in an Organization’s growth as it defines how it grows and scales efficiently and delivers reliable and secure products.
 
 - Objectives of the talk - To elaborate on the importance of setting the suitable SRE culture, tech and practices for startups.
+
 
 ### Imbibing SRE Philosophies in an Engineering Org 
 
@@ -33,29 +35,32 @@ This talk proposes to share the lessons learned from setting up teams and buildi
 ### Synonymity of Platform Engineering, DevOps, and SRE Principles in Practice 
 
 - Open Sourcing SRE within the Company to get contributions from other internal teams 
-
 - Distribution of ownership of the SRE Platforms
 
 ### Case Study of Successful Site Reliability and Platform Engineering Practices Implemented at 2 Startups 
 
 - Overview of the companies in various stages and their requirements 
-
 - Approach taken to set up the SRE culture and platforms 
-Lessons learned and key takeaways
+- Lessons learned and key takeaways
 
 ### Why How Google or Netflix Do SRE is Not a Good Place for Startups to Start With 
 
 - Discussion of the differences in the requirements and resources of startups and large organizations 
-
 - Importance of understanding the specific needs of a startup before implementing SRE practices
 
 ### Conclusion 
-
 - Recap of key takeaways 
 - Framework for setting up a Culture of Site Reliability Engineering 
 - Final thoughts and recommendations
 
 
+## Audience Takeaways
+
+
+- A case study of Site Reliability and Platform Engineering practices implemented at 2 Startups.
+- Challenges of building SRE platforms and culture in constraints and how to navigate them.
+- How to not get influenced by Twitter trends, preachings, and exciting tech, while making decisions to build the SRE culture.
+- Framework for setting up a suitable Culture of Site Reliability Engineering from the founding Engineers, and practical learnings.
 
 ## Target audience: 
 
